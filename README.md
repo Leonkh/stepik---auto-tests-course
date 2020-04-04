@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-Home task
+Home tasks from https://stepik.org/course/575
